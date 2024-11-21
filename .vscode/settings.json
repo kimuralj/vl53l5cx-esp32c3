@@ -1,0 +1,25 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/kimura/esp/esp-idf",
+  "idf.pythonBinPath": "/Users/kimura/.espressif/python_env/idf5.2_py3.12_env/bin/python",
+  "idf.toolsPath": "/Users/kimura/.espressif",
+  "idf.customExtraPaths": "/Users/kimura/.espressif/tools/xtensa-esp-elf-gdb/14.2_20240403/xtensa-esp-elf-gdb/bin:/Users/kimura/.espressif/tools/riscv32-esp-elf-gdb/14.2_20240403/riscv32-esp-elf-gdb/bin:/Users/kimura/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin:/Users/kimura/.espressif/tools/riscv32-esp-elf/esp-13.2.0_20230928/riscv32-esp-elf/bin:/Users/kimura/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/kimura/.espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/kimura/.espressif/tools/openocd-esp32/v0.12.0-esp32-20240821/openocd-esp32/bin:/Users/kimura/.espressif/tools/ninja/1.11.1:/Users/kimura/.espressif/tools/esp-rom-elfs/20230320",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "/Users/kimura/.espressif/tools/openocd-esp32/v0.12.0-esp32-20240821/openocd-esp32/share/openocd/scripts",
+    "ESP_ROM_ELF_DIR": "/Users/kimura/.espressif/tools/esp-rom-elfs/20230320/"
+  },
+  "idf.gitPath": "git",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.port": "/dev/tty.usbmodem1101",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "cstdint": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "span": "c"
+  }
+}
